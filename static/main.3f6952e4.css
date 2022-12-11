@@ -3889,7 +3889,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
   border-color: transparent;
 }
 .navbar-inverse .navbar-brand {
-  color: yellow;
+  color: white;
 }
 .navbar-inverse .navbar-brand:focus,
 .navbar-inverse .navbar-brand:hover {
@@ -3898,7 +3898,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 .navbar-inverse .navbar-nav > li > a,
 .navbar-inverse .navbar-text {
-  color: yellow;
+  color: white;
 }
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:focus,
@@ -3960,13 +3960,13 @@ fieldset[disabled] .navbar-default .btn-link:hover {
   }
 }
 .navbar-inverse .navbar-link {
-  color: yellow;
+  color: white;
 }
 .navbar-inverse .navbar-link:hover {
   color: #fff;
 }
 .navbar-inverse .btn-link {
-  color: yellow;
+  color: white;
 }
 .navbar-inverse .btn-link:focus,
 .navbar-inverse .btn-link:hover {
