@@ -1,0 +1,4 @@
+make links open in new tab
+fix profile phoot
+
+change numbers on about me page and on the contact page
